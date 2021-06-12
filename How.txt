@@ -1,0 +1,11 @@
+Server folder => npm init -y => express nodemon socket.io
+app.js => implement and make app.use to public folder
+in public folder add ur website
+
+socket io is ready to be implemented
+https://socket.io/get-started/chat
+app.js => implement socket.io
+connect socket io at server 
+connect socket io at client=> index.html using cdn and io() call
+now insted of app.listen => change it to server.listen my socket is based on server
+create socket.js in public for client side => emit and on functions
